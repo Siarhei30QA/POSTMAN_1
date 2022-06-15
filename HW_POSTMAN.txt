@@ -4,7 +4,7 @@ Protocol: http
 IP: 162.55.220.72
 Port: 5005
 
-EP_1
+EP_1                                             
 Method: GET
 EndPoint: /get_method
 request url params: 
@@ -17,6 +17,7 @@ response:
     “Str”
 ]
 
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-842ed935-875f-4b68-9fef-19fd278b7cd0
 ==================
 
 EP_2
@@ -35,6 +36,7 @@ response:
                      'u_salary_1_5_year': salary * 4}}
 
 
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-f188f5fe-d09c-4825-9760-0e465bbbb89b
 ==================
 
 EP_3
@@ -52,6 +54,7 @@ response:
           'daily_sleep': weight * 2.5}
 
 
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-508d2437-789b-4e10-b56a-feefee23ed2e
 ==================
 
 EP_4
@@ -74,6 +77,7 @@ response:
           }
 
 
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-d355d8bd-62f8-4588-ac4d-ac91d9d426d6
 ==================
 
 EP_5
@@ -97,6 +101,7 @@ response:
           }
 
 
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-1a45359f-66ea-40c7-aef1-76767319a979
 ==================
 
 EP_6
@@ -113,6 +118,7 @@ response:
           'salary': [salary, str(salary * 2), str(salary * 3)]}
 
 
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-24d9a3a7-a06a-44b3-95a5-4984a39093cf
 ==================
 
 EP_7
@@ -133,3 +139,5 @@ response:
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
           }
+
+https://web.postman.co/workspace/My-Workspace~4b7fbf35-de4d-4d78-8230-414d4545ebe3/request/20829171-e3e1f6c1-e262-4c31-a711-ccdc69df919b
